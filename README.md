@@ -1,12 +1,9 @@
 # jyl-restaurant
 Projet de restaurant en groupe Protype avec FIGMA (CODEPATH)
 
-
-# 🍽️ J.Y.L Restaurant – MVP (Minimum Viable Product)
-
 > **Savourez la tradition, à chaque bouchée.**
 
-Ce document décrit les fonctionnalités du MVP du site web / application de **J.Y.L Restaurant**, classées par priorité pour guider le développement et les tests utilisateurs.
+Ce document décrit les fonctionnalités du MVP de l'application de **J.Y.L Restaurant**, classées par priorité pour guider le développement et les tests utilisateurs.
 
 ---
 
@@ -64,4 +61,4 @@ Ce document décrit les fonctionnalités du MVP du site web / application de **J
 
 ---
 
-> ✨ **MVP lan vize yon eksperyans senp, rapid ak chalè – reflet kilti ak savè nouvo restoran an.**
+> ✨ **MVP an vize yon eksperyans senp, rapid ak chalè – reflet kilti ak savè nouvo restoran an.**
