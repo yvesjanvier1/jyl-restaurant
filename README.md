@@ -10,8 +10,8 @@ Ce document décrit les fonctionnalités du MVP de l'application de **J.Y.L Rest
 ## ✅ Must Have  
 *(Fonctionnalités essentielles – sans elles, le MVP n’a pas de valeur)*
 
-- Itilizatè a dwe kapab **konekte rapid** (san pwotokol otorizasyon konplike) epi itilize enfòmasyon li pou rezève yon tab.
-- App lan dwe gen **yon paj akolèy** ki montre:
+- Itilizatè a dwe kapab **konekte rapid** (san pwotokol otorizasyon konplike) epi itilize enfòmasyon li pou rezève yon tab oubyen pou livrezon.
+- App lan dwe gen **yon paj akèy** ki montre:
   - Non restoran an : **J.Y.L Restaurant**
   - Fras aktraktif : *« Savourez la tradition, à chaque bouchée. »*
   - 4 plats vedettes (Lalo, Griot, TonmTonm, Riz-Purée-Légumes)
@@ -26,7 +26,7 @@ Ce document décrit les fonctionnalités du MVP de l'application de **J.Y.L Rest
   - Yon imaj
   - Non an
   - Pri a (Ex: 1200 HTG)
-- Itilizatè a dwe kapab **rezève yon tab** lè l’ape ranpli yon fòmilè senp:
+- Itilizatè a dwe kapab **rezève yon tab** lè l’ap ranpli yon fòmilè senp:
   - Non
   - Nimewo telefòn
   - Kantite moun
@@ -61,4 +61,4 @@ Ce document décrit les fonctionnalités du MVP de l'application de **J.Y.L Rest
 
 ---
 
-> ✨ **MVP an vize yon eksperyans senp, rapid ak chalè – reflet kilti ak savè nouvo restoran an.**
+> ✨ **MVP an vize yon eksperyans senp, rapid ak enèji – reflete kilti, tip ak kalite manje restoran an.**
