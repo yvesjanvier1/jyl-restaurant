@@ -7,6 +7,9 @@ Ce document décrit les fonctionnalités du MVP de l'application de **J.Y.L Rest
 
 ---
 
+![jyl prototype](https://github.com/user-attachments/assets/0a3bbed7-f420-4fec-acd5-ab0ae60d1f65)
+
+
 ## ✅ Must Have  
 *(Fonctionnalités essentielles – sans elles, le MVP n’a pas de valeur)*
 
